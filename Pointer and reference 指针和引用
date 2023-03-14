@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+
+   //定义指针
+   int *a;
+   //定义
+
+}
