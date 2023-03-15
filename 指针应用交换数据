@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+void interchange(int*u , int*vu );
+
+int main() {
+	int x=1, y=10;
+	cout << x <<'\t' << y << endl;
+	interchange(&x,&y);               //传递进去x,y的地址
+	cout << x <<'\t' << y;
+	return 0;
+}
+
+void interchange(int*u, int*v ) {   //定义指针变量，传入地址，
+	int temp;
+	 temp = *u;
+	 *u = *v;
+	 *v = temp;
+
+}
