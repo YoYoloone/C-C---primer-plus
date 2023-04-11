@@ -1,0 +1,6 @@
+﻿  10.10sum_arr1.c
+  10.11sump_arr2.c
+C:\Users\28677\source\repos\C primer plus 10.4.c\C primer plus 10.4.c\10.11sump_arr2.c(22,20): warning C4047: “=”:“int”与“int *”的间接级别不同
+C:\Users\28677\source\repos\C primer plus 10.4.c\C primer plus 10.4.c\10.11sump_arr2.c(22,39): warning C4047: “<”:“int”与“int *”的间接级别不同
+  正在生成代码...
+  C primer plus 10.4.c.vcxproj -> C:\Users\28677\source\repos\C primer plus 10.4.c\x64\Debug\C primer plus 10.4.c.exe
