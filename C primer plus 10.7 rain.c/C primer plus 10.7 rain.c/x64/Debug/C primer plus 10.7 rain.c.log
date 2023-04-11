@@ -1,0 +1,7 @@
+﻿  rains.c
+C:\Users\28677\source\repos\C primer plus 10.7 rain.c\C primer plus 10.7 rain.c\rains.c(24,9): warning C4477: “printf”: 格式字符串“%2d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+C:\Users\28677\source\repos\C primer plus 10.7 rain.c\C primer plus 10.7 rain.c\rains.c(25,2): warning C4013: “prtinf”未定义；假设外部返回 int
+C:\Users\28677\source\repos\C primer plus 10.7 rain.c\C primer plus 10.7 rain.c\rains.c(35,12): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\28677\source\repos\C primer plus 10.7 rain.c\C primer plus 10.7 rain.c\rains.c(9,20): warning C4101: “average”: 未引用的局部变量
+rains.obj : error LNK2019: 无法解析的外部符号 prtinf，函数 main 中引用了该符号
+C:\Users\28677\source\repos\C primer plus 10.7 rain.c\x64\Debug\C primer plus 10.7 rain.c.exe : fatal error LNK1120: 1 个无法解析的外部命令
