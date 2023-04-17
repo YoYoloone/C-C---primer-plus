@@ -1,0 +1,7 @@
+﻿  zippo2.c
+C:\Users\28677\source\repos\程序清单10.16zippo2.c\程序清单10.16zippo2.c\zippo2.c(16,12): warning C4047: “函数”:“int *”与“int [4][4]”的间接级别不同
+C:\Users\28677\source\repos\程序清单10.16zippo2.c\程序清单10.16zippo2.c\zippo2.c(16,7): warning C4024: “show”: 形参和实参 1 的类型不同
+C:\Users\28677\source\repos\程序清单10.16zippo2.c\程序清单10.16zippo2.c\zippo2.c(16,18): warning C4020: “show”: 实参太多
+C:\Users\28677\source\repos\程序清单10.16zippo2.c\程序清单10.16zippo2.c\zippo2.c(21,16): warning C4028: 形参 1 与声明不同
+C:\Users\28677\source\repos\程序清单10.16zippo2.c\程序清单10.16zippo2.c\zippo2.c(21,39): warning C4029: 声明的形参表不同于定义
+  程序清单10.16zippo2.c.vcxproj -> C:\Users\28677\source\repos\程序清单10.16zippo2.c\x64\Debug\程序清单10.16zippo2.c.exe
