@@ -1,0 +1,3 @@
+﻿  14.1book.c
+C:\Users\28677\source\repos\14.1book.c程序\14.1book.c程序\14.1book.c(43): warning C4715: “s_gets”: 不是所有的控件路径都返回值
+  14.1book.c程序.vcxproj -> C:\Users\28677\source\repos\14.1book.c程序\x64\Debug\14.1book.c程序.exe
