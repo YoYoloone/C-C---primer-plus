@@ -1,0 +1,4 @@
+﻿  14.2manybook.c
+C:\Users\28677\source\repos\14.2manybook.c\14.2manybook.c\14.2manybook.c(36,11): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“double”
+C:\Users\28677\source\repos\14.2manybook.c\14.2manybook.c\14.2manybook.c(60): warning C4715: “s_gets”: 不是所有的控件路径都返回值
+  14.2manybook.c.vcxproj -> C:\Users\28677\source\repos\14.2manybook.c\x64\Debug\14.2manybook.c.exe
